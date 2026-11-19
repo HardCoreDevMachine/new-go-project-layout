@@ -1,4 +1,4 @@
-# Mac OS X files
+# macOS Finder metadata
 .DS_Store
 
 # Binaries for programs and plugins
@@ -8,14 +8,6 @@
 *.so
 *.dylib
 
-# Test binary, build with `go test -c`
+# Go test and coverage artifacts
 *.test
-
-# Output of the go coverage tool, specifically when used with LiteIDE
 *.out
-
-# Project-local glide cache, RE: https://github.com/Masterminds/glide/issues/736
-.glide/
-
-# Dependency directories (remove the comment below to include it)
-# vendor/
