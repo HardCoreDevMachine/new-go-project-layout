@@ -2,27 +2,9 @@
 
 Translations:
 
-* [Беларуская](README_be.md)
-* [বাংলা](README_bn.md)
-* [Español](README_es.md)
-* [فارسی](README_fa.md)
-* [Français](README_fr.md)
-* [हिन्दी](README_hi.md)
-* [Indonesian](README_id.md)
-* [Italiano](README_it.md)
-* [日本語](README_ja.md)
-* [한국어 문서](README_ko.md)
-* [Português](README_ptBR.md)
-* [Română](README_ro.md)
 * [Русский](README_ru.md)
-* [Türkçe](README_tr.md)
-* [Українська](README_ua.md)
-* [Tiếng Việt](README_vi.md)
-* [简体中文](README_zh.md)
-* [简体中文](README_zh-CN.md)
-* [正體中文](README_zh-TW.md)
 
-The English README is the canonical document. Keep a translation aligned with it when changing the template.
+The English README is the canonical document. Keep the Russian translation aligned with it when changing the template.
 
 ## Purpose
 
