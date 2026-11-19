@@ -1,9 +1,5 @@
 # `/test`
 
-Additional external test apps and test data. Feel free to structure the `/test` directory anyway you want. For bigger projects it makes sense to have a data subdirectory. For example, you can have `/test/data` or `/test/testdata` if you need Go to ignore what's in that directory. Note that Go will also ignore directories or files that begin with "." or "_", so you have more flexibility in terms of how you name your test data directory.
+Black-box test applications, integration fixtures, and data shared by tests across packages. Keep unit tests next to the package they exercise.
 
-Examples:
-
-* https://github.com/openshift/origin/tree/master/test (test data is in the `/testdata` subdirectory)
-
-
+Use `testdata/` for fixture directories that must be ignored by Go package discovery.

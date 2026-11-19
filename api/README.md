@@ -1,8 +1,3 @@
 # `/api`
 
-OpenAPI/Swagger specs, JSON schema files, protocol definition files.
-
-Examples:
-
-* https://github.com/kubernetes/kubernetes/tree/master/api
-* https://github.com/moby/moby/tree/master/api
+API contracts: OpenAPI documents, protobuf definitions, JSON Schema, and similar protocol definitions. Keep generated output outside this directory or make the generation policy explicit.

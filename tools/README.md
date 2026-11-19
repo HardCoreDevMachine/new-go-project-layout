@@ -1,9 +1,5 @@
 # `/tools`
 
-Supporting tools for this project. Note that these tools can import code from the `/pkg` and `/internal` directories.
+Development and repository-support tools. Tools may import this module's public or internal packages when the Go import rules permit it.
 
-Examples:
-
-* https://github.com/istio/istio/tree/master/tools
-* https://github.com/openshift/origin/tree/master/tools
-* https://github.com/dapr/dapr/tree/master/tools
+Pin tool versions in the project's chosen dependency-management mechanism.

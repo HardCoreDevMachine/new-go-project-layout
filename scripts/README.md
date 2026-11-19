@@ -1,11 +1,5 @@
 # `/scripts`
 
-Scripts to perform various build, install, analysis, etc operations.
+Scripts for repeatable repository maintenance, build, installation, and analysis operations. Keep the root `Makefile` as a discoverable interface and place substantial shell logic here.
 
-These scripts keep the root level Makefile small and simple.
-
-Examples:
-
-* https://github.com/kubernetes/helm/tree/master/scripts
-* https://github.com/cockroachdb/cockroach/tree/master/scripts
-* https://github.com/hashicorp/terraform/tree/master/scripts
+Each script should be executable, document its inputs and effects, and fail on errors.
